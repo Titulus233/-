@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sioy/三周/final/int20.h
+iostream
+-
+bitset
+-
+cmath
+-
+
+/home/sioy/三周/final/main.cpp
+int20.h
+/home/sioy/三周/final/int20.h
+

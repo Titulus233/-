@@ -1,0 +1,3 @@
+/home/sioy/三周/final/build/CMakeFiles/edit_cache.dir
+/home/sioy/三周/final/build/CMakeFiles/rebuild_cache.dir
+/home/sioy/三周/final/build/CMakeFiles/int20.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/int20.dir/main.cpp.o CMakeFiles/int20.dir/int20.cpp.o  -o int20 
